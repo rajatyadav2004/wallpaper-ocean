@@ -3,7 +3,7 @@
 A free, fast, and beautiful wallpaper gallery website. Browse and download high-quality HD & 4K wallpapers across multiple categories.
 
 ##  Live Demo
-[View Website](https://your-username.github.io/wallpaper-ocean/)
+[View Website](https://rajatyadav2004.github.io/wallpaper-ocean/)
 
 ##  Features
 - Browse wallpapers by category — Animals, Art, Cars & Nature
