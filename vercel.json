@@ -1,8 +1,5 @@
 {
-  "redirects": [
-    { "source": "/", "destination": "/wallpaper-ocean/", "permanent": false }
-  ],
   "rewrites": [
-    { "source": "/wallpaper-ocean/(.*)", "destination": "/index.html" }
+    { "source": "/wallpaper-ocean/((?!assets/).*)", "destination": "/index.html" }
   ]
 }
