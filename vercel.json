@@ -1,7 +1,11 @@
 {
   "rewrites": [
     {
-      "source": "/wallpaper-ocean/:path((?!assets/).*)",
+      "source": "/wallpaper-ocean/assets/:path*",
+      "destination": "/wallpaper-ocean/assets/:path*"
+    },
+    {
+      "source": "/wallpaper-ocean/:path*",
       "destination": "/index.html"
     }
   ]
