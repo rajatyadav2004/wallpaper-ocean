@@ -1,5 +1,8 @@
 {
   "rewrites": [
-    { "source": "/wallpaper-ocean/((?!assets/).*)", "destination": "/index.html" }
+    {
+      "source": "/wallpaper-ocean/:path((?!assets/).*)",
+      "destination": "/index.html"
+    }
   ]
 }
